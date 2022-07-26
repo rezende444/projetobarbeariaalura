@@ -1,1 +1,12 @@
 
+body {
+    blackground: #CCCCC
+}
+
+P {
+    text-align: center;
+}
+
+strong {
+    color: #FF0000;
+}
